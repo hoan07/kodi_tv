@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Vtv1" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv1
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html
+#EXTINF:-1 tvg-name="Vtv2" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv2
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv2-2.html
+#EXTINF:-1 tvg-name="Vtv3" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv3
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html
+#EXTINF:-1 tvg-name="Vtv4" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv4
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html
+#EXTINF:-1 tvg-name="Vtv5" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv5
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-5.html
+#EXTINF:-1 tvg-name="Vtv7" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv7
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv7-27.html
+#EXTINF:-1 tvg-name="Vtv8" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv8
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv8-36.html
+#EXTINF:-1 tvg-name="Vtv9" tvg-language="English" tvg-country="VN" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjQokqv8-b-XLH34XJulaY0W27AzlCmyeEY7TayMw=s176-c-k-c0x00ffffff-no-rj-mo" group-title="News", Vtv9
+pipe:///usr/bin/env docker run --rm rayou/streamlink:latest --stdout --default-stream best --url https://vtvgo.vn/xem-truc-tuyen-kenh-vtv9-39.html
